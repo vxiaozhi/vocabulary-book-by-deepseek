@@ -1,0 +1,3103 @@
+[
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 1,
+    "word": "fox",
+    "phonetic_symbol": "[fɒks]",
+    "mean": "n.狐狸"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 2,
+    "word": "giraffe",
+    "phonetic_symbol": "[dʒəˈrɑːf]",
+    "mean": "n.长颈鹿"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 3,
+    "word": "eagle",
+    "phonetic_symbol": "[ˈiːɡl]",
+    "mean": "n.雕；鹰"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 4,
+    "word": "wolf",
+    "phonetic_symbol": "[wʊlf]",
+    "mean": "n.狼（pl.wolves）"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 5,
+    "word": "penguin",
+    "phonetic_symbol": "[ˈpeŋɡwɪn]",
+    "mean": "n.企鹅"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 6,
+    "word": "care",
+    "phonetic_symbol": "[keə(r)]",
+    "mean": "n.照顾；护理；v.关心；在乎"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 7,
+    "word": "take care of",
+    "phonetic_symbol": "短语",
+    "mean": "照顾；处理"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 8,
+    "word": "sandwich",
+    "phonetic_symbol": "[ˈsænwɪtʃ]",
+    "mean": "n.三明治"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 9,
+    "word": "snake",
+    "phonetic_symbol": "[sneɪk]",
+    "mean": "n.蛇"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 10,
+    "word": "scary",
+    "phonetic_symbol": "[ˈskeəri]",
+    "mean": "adj.吓人的；恐怖的"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 11,
+    "word": "neck",
+    "phonetic_symbol": "[nek]",
+    "mean": "n.脖子"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 12,
+    "word": "guess",
+    "phonetic_symbol": "[ɡes]",
+    "mean": "v.猜测；估计"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 13,
+    "word": "shark",
+    "phonetic_symbol": "[ʃɑːk]",
+    "mean": "n.鲨鱼"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 14,
+    "word": "whale",
+    "phonetic_symbol": "[weɪl]",
+    "mean": "n.鲸"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 15,
+    "word": "huge",
+    "phonetic_symbol": "[hjuːdʒ]",
+    "mean": "adj.巨大的；极多的"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 16,
+    "word": "dangerous",
+    "phonetic_symbol": "[ˈdeɪndʒərəs]",
+    "mean": "adj.危险的；有危害的"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 17,
+    "word": "save",
+    "phonetic_symbol": "[seɪv]",
+    "mean": "v.救；储蓄；保存"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 18,
+    "word": "luck",
+    "phonetic_symbol": "[lʌk]",
+    "mean": "n.幸运，运气"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 19,
+    "word": "Thai",
+    "phonetic_symbol": "[taɪ]",
+    "mean": "adj.泰国的；泰国人的；n.泰国人，泰语"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 20,
+    "word": "trunk",
+    "phonetic_symbol": "[trʌŋk]",
+    "mean": "n.象鼻"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 21,
+    "word": "pick",
+    "phonetic_symbol": "[pɪk]",
+    "mean": "v.捡；摘"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 22,
+    "word": "pick up",
+    "phonetic_symbol": "[pɪk ʌp]",
+    "mean": "拿起；举起"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 23,
+    "word": "carry",
+    "phonetic_symbol": "[ˈkæri]",
+    "mean": "v.拿；提"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 24,
+    "word": "playful",
+    "phonetic_symbol": "[ˈpleɪfl]",
+    "mean": "adj.爱嬉戏的；爱玩的"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 25,
+    "word": "swimmer",
+    "phonetic_symbol": "[ˈswɪmə(r)]",
+    "mean": "n.游泳者"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 26,
+    "word": "one another",
+    "phonetic_symbol": "短语",
+    "mean": "互相"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 27,
+    "word": "look after",
+    "phonetic_symbol": "短语",
+    "mean": "照顾"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 28,
+    "word": "culture",
+    "phonetic_symbol": "[ˈkʌltʃə(r)]",
+    "mean": "n.文化；文明"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 29,
+    "word": "however",
+    "phonetic_symbol": "[haʊˈevə(r)]",
+    "mean": "adv.然而；不过"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 30,
+    "word": "danger",
+    "phonetic_symbol": "[ˈdeɪndʒə(r)]",
+    "mean": "n.危险"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 31,
+    "word": "in danger",
+    "phonetic_symbol": "短语",
+    "mean": "处于危险之中"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 32,
+    "word": "forest",
+    "phonetic_symbol": "[ˈfɒrɪst]",
+    "mean": "n.森林"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 33,
+    "word": "cut down",
+    "phonetic_symbol": "短语",
+    "mean": "砍伐；砍倒"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 34,
+    "word": "too many",
+    "phonetic_symbol": "短语",
+    "mean": "太多"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 35,
+    "word": "kill",
+    "phonetic_symbol": "[kɪl]",
+    "mean": "v.杀死；弄死"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 36,
+    "word": "made of",
+    "phonetic_symbol": "短语",
+    "mean": "由……制成的"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 37,
+    "word": "ivory",
+    "phonetic_symbol": "[ˈaɪvəri]",
+    "mean": "n.象牙"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 38,
+    "word": "friendly",
+    "phonetic_symbol": "[ˈfrendli]",
+    "mean": "adj.友好的"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 39,
+    "word": "quite",
+    "phonetic_symbol": "[kwaɪt]",
+    "mean": "adv.相当；完全"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 40,
+    "word": "quite a",
+    "phonetic_symbol": "短语",
+    "mean": "相当；非常"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 41,
+    "word": "not…at all",
+    "phonetic_symbol": "短语",
+    "mean": "一点也不"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 42,
+    "word": "fur",
+    "phonetic_symbol": "[fɜː(r)]",
+    "mean": "n.（动物）厚软毛"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 43,
+    "word": "blind",
+    "phonetic_symbol": "[blaɪnd]",
+    "mean": "adj.瞎的；失明的"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 44,
+    "word": "hearing",
+    "phonetic_symbol": "[ˈhɪərɪŋ]",
+    "mean": "n.听力；听觉"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 45,
+    "word": "Antarctica",
+    "phonetic_symbol": "[ænˈtɑːktɪkə]",
+    "mean": "南极洲"
+  },
+  {
+    "unit": "Unit1 Animal Friends",
+    "num": 46,
+    "word": "Africa",
+    "phonetic_symbol": "[ˈæfrɪkə]",
+    "mean": "非洲"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 1,
+    "word": "rule",
+    "phonetic_symbol": "[ruːl]",
+    "mean": "n.规则；规章"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 2,
+    "word": "order",
+    "phonetic_symbol": "[ˈɔːdə(r)]",
+    "mean": "n.秩序；v.点菜"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 3,
+    "word": "follow",
+    "phonetic_symbol": "[ˈfɒləʊ]",
+    "mean": "v.遵循；跟随"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 4,
+    "word": "be late (for)",
+    "phonetic_symbol": "短语",
+    "mean": "迟到"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 5,
+    "word": "arrive",
+    "phonetic_symbol": "[əˈraɪv]",
+    "mean": "v.到达"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 6,
+    "word": "on time",
+    "phonetic_symbol": "短语",
+    "mean": "准时"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 7,
+    "word": "hallway",
+    "phonetic_symbol": "[ˈhɔːlweɪ]",
+    "mean": "n.走廊"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 8,
+    "word": "uniform",
+    "phonetic_symbol": "[ˈjuːnɪfɔːm]",
+    "mean": "n.校服；制服"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 9,
+    "word": "litter",
+    "phonetic_symbol": "[ˈlɪtə(r)]",
+    "mean": "v.乱扔；n.垃圾"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 10,
+    "word": "polite",
+    "phonetic_symbol": "[pəˈlaɪt]",
+    "mean": "adj.有礼貌的"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 11,
+    "word": "treat",
+    "phonetic_symbol": "[triːt]",
+    "mean": "v.对待；招待；治疗"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 12,
+    "word": "respect",
+    "phonetic_symbol": "[rɪˈspekt]",
+    "mean": "n.&v.尊敬"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 13,
+    "word": "if",
+    "phonetic_symbol": "[ɪf]",
+    "mean": "conj.如果"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 14,
+    "word": "jacket",
+    "phonetic_symbol": "[ˈdʒækɪt]",
+    "mean": "n.夹克衫；短上衣"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 15,
+    "word": "have to",
+    "phonetic_symbol": "短语",
+    "mean": "不得不"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 16,
+    "word": "everything",
+    "phonetic_symbol": "[ˈevriθɪŋ]",
+    "mean": "pron.每件事"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 17,
+    "word": "lend",
+    "phonetic_symbol": "[lend]",
+    "mean": "v.借给；借出"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 18,
+    "word": "sweet",
+    "phonetic_symbol": "[swiːt]",
+    "mean": "n.糖果；adj.甜的"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 19,
+    "word": "snack",
+    "phonetic_symbol": "[snæk]",
+    "mean": "n.点心；小吃"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 20,
+    "word": "of course",
+    "phonetic_symbol": "短语",
+    "mean": "当然"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 21,
+    "word": "mobile",
+    "phonetic_symbol": "[ˈməʊbaɪl]",
+    "mean": "adj.可移动的"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 22,
+    "word": "mobile phone",
+    "phonetic_symbol": "[ˈməʊbaɪl fəʊn]",
+    "mean": "手机"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 23,
+    "word": "turn off",
+    "phonetic_symbol": "短语",
+    "mean": "关掉(水、电或煤气)"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 24,
+    "word": "queue",
+    "phonetic_symbol": "[kjuː]",
+    "mean": "n.队；行列"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 25,
+    "word": "jump the queue",
+    "phonetic_symbol": "短语",
+    "mean": "插队"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 26,
+    "word": "wait for",
+    "phonetic_symbol": "短语",
+    "mean": "等待"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 27,
+    "word": "just",
+    "phonetic_symbol": "[dʒʌst]",
+    "mean": "adv.只是；正好"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 28,
+    "word": "leave",
+    "phonetic_symbol": "[liːv]",
+    "mean": "v.离开；留下"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 29,
+    "word": "absent",
+    "phonetic_symbol": "[ˈæbsənt]",
+    "mean": "adj.缺席的；不在的"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 30,
+    "word": "be absent from",
+    "phonetic_symbol": "短语",
+    "mean": "缺席；不在"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 31,
+    "word": "shh",
+    "phonetic_symbol": "[ʃ]",
+    "mean": "interj.嘘(用以让别人安静下来)"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 32,
+    "word": "quietly",
+    "phonetic_symbol": "[ˈkwaɪətli]",
+    "mean": "adv.轻声地；安静地"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 33,
+    "word": "belt",
+    "phonetic_symbol": "[belt]",
+    "mean": "n.安全带；腰带；皮带"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 34,
+    "word": "feed",
+    "phonetic_symbol": "[fiːd]",
+    "mean": "v.喂养；饲养"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 35,
+    "word": "noise",
+    "phonetic_symbol": "[nɔɪz]",
+    "mean": "n.声音；噪声"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 36,
+    "word": "unhappy",
+    "phonetic_symbol": "[ʌnˈhæpi]",
+    "mean": "adj.不快乐的"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 37,
+    "word": "Dr(= doctor)",
+    "phonetic_symbol": "[ˈdɒktə(r)]",
+    "mean": "n.博士；医生"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 38,
+    "word": "make sb's bed",
+    "phonetic_symbol": "短语",
+    "mean": "整理床铺；铺床"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 39,
+    "word": "either",
+    "phonetic_symbol": "[ˈaɪðə(r); ˈiːðə(r)]",
+    "mean": "adv.也(用于否定词组后)"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 40,
+    "word": "practise",
+    "phonetic_symbol": "[ˈpræktɪs]",
+    "mean": "v.训练；练习"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 41,
+    "word": "hang",
+    "phonetic_symbol": "[hæŋ]",
+    "mean": "v.悬挂"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 42,
+    "word": "hang out",
+    "phonetic_symbol": "短语",
+    "mean": "闲逛；常去某处"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 43,
+    "word": "weekday",
+    "phonetic_symbol": "[ˈwiːkdeɪ]",
+    "mean": "n.工作日(星期一至星期五的任何一天)"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 44,
+    "word": "awful",
+    "phonetic_symbol": "[ˈɔːfl]",
+    "mean": "adj.糟糕的"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 45,
+    "word": "become",
+    "phonetic_symbol": "[bɪˈkʌm]",
+    "mean": "v.成为"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 46,
+    "word": "better",
+    "phonetic_symbol": "[ˈbetə(r)]",
+    "mean": "adj.较好；adv.较好地"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 47,
+    "word": "person",
+    "phonetic_symbol": "[ˈpɜːsn]",
+    "mean": "n.人"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 48,
+    "word": "focus",
+    "phonetic_symbol": "[ˈfəʊkəs]",
+    "mean": "v.集中(注意力、精力等)；n.焦点"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 49,
+    "word": "focus on",
+    "phonetic_symbol": "短语",
+    "mean": "集中(注意力、精力等)于"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 50,
+    "word": "build",
+    "phonetic_symbol": "[bɪld]",
+    "mean": "v.创建；建造"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 51,
+    "word": "spirit",
+    "phonetic_symbol": "[ˈspɪrɪt]",
+    "mean": "n.精神；情绪"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 52,
+    "word": "think about",
+    "phonetic_symbol": "短语",
+    "mean": "思考"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 53,
+    "word": "relax",
+    "phonetic_symbol": "[rɪˈlæks]",
+    "mean": "v.放松；休息"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 54,
+    "word": "advice",
+    "phonetic_symbol": "[ədˈvaɪs]",
+    "mean": "n.建议；意见"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 55,
+    "word": "understand",
+    "phonetic_symbol": "[ˌʌndəˈstænd]",
+    "mean": "v.理解；领会"
+  },
+  {
+    "unit": "Unit2 No Rules,No Order",
+    "num": 56,
+    "word": "untidy",
+    "phonetic_symbol": "[ʌnˈtaɪdi]",
+    "mean": "adj.不整洁的"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 1,
+    "word": "fit",
+    "phonetic_symbol": "[fit]",
+    "mean": "adj.健康的；健壮的v.适合"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 2,
+    "word": "baseball",
+    "phonetic_symbol": "[ˈbeɪsbɔːl]",
+    "mean": "n.棒球(运动)"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 3,
+    "word": "glove",
+    "phonetic_symbol": "[ɡlʌv]",
+    "mean": "n.(手指分开的)手套"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 4,
+    "word": "mat",
+    "phonetic_symbol": "[mæt]",
+    "mean": "n.(运动用的)垫子"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 5,
+    "word": "rope",
+    "phonetic_symbol": "[rəʊp]",
+    "mean": "n.绳子；粗绳"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 6,
+    "word": "jump rope",
+    "phonetic_symbol": "短语",
+    "mean": "跳绳用的绳子；跳绳(运动)"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 7,
+    "word": "racket",
+    "phonetic_symbol": "[ˈrækɪt]",
+    "mean": "n.(网球、羽毛球等的)球拍"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 8,
+    "word": "hardly",
+    "phonetic_symbol": "[ˈhɑːdli]",
+    "mean": "adv.几乎不；几乎没有"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 9,
+    "word": "ever",
+    "phonetic_symbol": "[ˈevə(r)]",
+    "mean": "adv.在任何时候；从来；曾经"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 10,
+    "word": "hardly ever",
+    "phonetic_symbol": "短语",
+    "mean": "几乎从不"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 11,
+    "word": "once",
+    "phonetic_symbol": "[wʌns]",
+    "mean": "adv.一次；曾经"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 12,
+    "word": "twice",
+    "phonetic_symbol": "[twaɪs]",
+    "mean": "adv.两次；两倍"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 13,
+    "word": "mine",
+    "phonetic_symbol": "[maɪn]",
+    "mean": "pron.我的(所有物)"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 14,
+    "word": "hers",
+    "phonetic_symbol": "[hɜːz]",
+    "mean": "pron.她的(所有物)"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 15,
+    "word": "maybe",
+    "phonetic_symbol": "[ˈmeɪbi]",
+    "mean": "adv.也许；大概"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 16,
+    "word": "well-used",
+    "phonetic_symbol": "[wel ju:zd]",
+    "mean": "adj.使用得多的"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 17,
+    "word": "practice",
+    "phonetic_symbol": "[ˈpræktɪs]",
+    "mean": "n.练习；实践"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 18,
+    "word": "perfect",
+    "phonetic_symbol": "[ˈpɜːfɪkt]",
+    "mean": "adj.完美的；极好的"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 19,
+    "word": "seldom",
+    "phonetic_symbol": "[ˈseldəm]",
+    "mean": "adv.很少；不常"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 20,
+    "word": "badminton",
+    "phonetic_symbol": "[ˈbædmɪntən]",
+    "mean": "n.羽毛球运动"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 21,
+    "word": "double",
+    "phonetic_symbol": "[ˈdʌbl]",
+    "mean": "n.双打；两倍；adj.成双的；两倍的"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 22,
+    "word": "sometime",
+    "phonetic_symbol": "[ˈsʌmtaɪm]",
+    "mean": "adv. 在某个时候"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 23,
+    "word": "volleyball",
+    "phonetic_symbol": "[ˈvɒlibɔːl]",
+    "mean": "n.排球(运动)"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 24,
+    "word": "theirs",
+    "phonetic_symbol": "[ðeəs]",
+    "mean": "pron. 他们的，她们的，它们的（所有物）"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 25,
+    "word": "jog",
+    "phonetic_symbol": "[dʒɒɡ]",
+    "mean": "v.慢跑"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 26,
+    "word": "few",
+    "phonetic_symbol": "[fjuː]",
+    "mean": "adj.(表示否定的)很少的；几乎没有的"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 27,
+    "word": "a few",
+    "phonetic_symbol": "短语",
+    "mean": "少数；几个"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 28,
+    "word": "excuse",
+    "phonetic_symbol": "[ɪkˈskjuːz]",
+    "mean": "v.原谅；宽恕"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 29,
+    "word": "excuse me",
+    "phonetic_symbol": "短语",
+    "mean": "劳驾；请原谅"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 30,
+    "word": "over there",
+    "phonetic_symbol": "短语",
+    "mean": "在那边"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 31,
+    "word": "T-shirt",
+    "phonetic_symbol": "[ˈtiːʃɜːt]",
+    "mean": "n. T 恤衫"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 32,
+    "word": "belong",
+    "phonetic_symbol": "[bɪˈlɒŋ]",
+    "mean": "v.应在(某处)；"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 33,
+    "word": "belong to",
+    "phonetic_symbol": "短语",
+    "mean": "属于(某人)"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 34,
+    "word": "at the start",
+    "phonetic_symbol": "短语",
+    "mean": "开始；起初"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 35,
+    "word": "still",
+    "phonetic_symbol": "[stɪl]",
+    "mean": "adv.还；仍然"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 36,
+    "word": "sleepy",
+    "phonetic_symbol": "[ˈsliːpi]",
+    "mean": "adj.困倦的；想睡的"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 37,
+    "word": "instead",
+    "phonetic_symbol": "[ɪnˈsted]",
+    "mean": "adv.代替"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 38,
+    "word": "group",
+    "phonetic_symbol": "[ɡruːp]",
+    "mean": "n.组；群"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 39,
+    "word": "skateboard",
+    "phonetic_symbol": "[ˈskeɪtbɔːd]",
+    "mean": "n.滑板"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 40,
+    "word": "encourage",
+    "phonetic_symbol": "[ɪnˈkʌrɪdʒ]",
+    "mean": "v.鼓励；激励"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 41,
+    "word": "trick",
+    "phonetic_symbol": "[trɪk]",
+    "mean": "n.技巧，戏法"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 42,
+    "word": "succeed",
+    "phonetic_symbol": "[sak'si:d]",
+    "mean": "v.成功；达到目标"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 43,
+    "word": "skateboarding",
+    "phonetic_symbol": "['skentbə:dın]",
+    "mean": "n.滑板运动"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 44,
+    "word": "goal",
+    "phonetic_symbol": "[ɡəʊl]",
+    "mean": "n.目标；目的"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 45,
+    "word": "sit-up",
+    "phonetic_symbol": "[ˈsɪt ʌp]",
+    "mean": "n.仰卧起坐"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 46,
+    "word": "work out",
+    "phonetic_symbol": "短语",
+    "mean": "锻炼"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 47,
+    "word": "app",
+    "phonetic_symbol": "[æp]",
+    "mean": "n.应用程序"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 48,
+    "word": "application",
+    "phonetic_symbol": "[ˌæplɪˈkeɪʃn]",
+    "mean": "n.应用程序"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 49,
+    "word": "progress",
+    "phonetic_symbol": "[ˈprəʊɡres]",
+    "mean": "n.进步；进展"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 50,
+    "word": "match",
+    "phonetic_symbol": "[mætʃ]",
+    "mean": "n.比赛；竞赛"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 51,
+    "word": "team",
+    "phonetic_symbol": "[tiːm]",
+    "mean": "n.队；组"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 52,
+    "word": "ours",
+    "phonetic_symbol": "[ˈaʊəz]",
+    "mean": "pron.我们的(所有物)"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 53,
+    "word": "lose",
+    "phonetic_symbol": "[luːz]",
+    "mean": "v.输掉；丢失"
+  },
+  {
+    "unit": "Unit3 Keep Fit",
+    "num": 54,
+    "word": "teenager",
+    "phonetic_symbol": "[ˈtiːneɪdʒə(r)]",
+    "mean": "n.青少年(13 岁至 19 岁之间)"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 1,
+    "word": "watermelon",
+    "phonetic_symbol": "[ˈwɔːtəmelən]",
+    "mean": "n.西瓜"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 2,
+    "word": "cabbage",
+    "phonetic_symbol": "[ˈkæbɪdʒ]",
+    "mean": "n.卷心菜"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 3,
+    "word": "mutton",
+    "phonetic_symbol": "[ˈmʌtn]",
+    "mean": "n.羊肉"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 4,
+    "word": "cookie",
+    "phonetic_symbol": "[ˈkʊki]",
+    "mean": "n.曲奇饼"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 5,
+    "word": "onion",
+    "phonetic_symbol": "[ˈʌnjən]",
+    "mean": "n.洋葱；葱头"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 6,
+    "word": "dumpling",
+    "phonetic_symbol": "[ˈdʌmplɪŋ]",
+    "mean": "n.饺子"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 7,
+    "word": "coffee",
+    "phonetic_symbol": "[ˈkɔːfi]",
+    "mean": "n.咖啡"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 8,
+    "word": "bean",
+    "phonetic_symbol": "[biːn]",
+    "mean": "n.豆"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 9,
+    "word": "chip",
+    "phonetic_symbol": "[tʃɪp]",
+    "mean": "n.炸薯条"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 10,
+    "word": "fish and chips",
+    "phonetic_symbol": "短语",
+    "mean": "炸鱼薯条"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 11,
+    "word": "salad",
+    "phonetic_symbol": "[ˈsæləd]",
+    "mean": "n.沙拉；色拉"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 12,
+    "word": "porridge",
+    "phonetic_symbol": "[ˈpɒrɪdʒ]",
+    "mean": "n.粥；麦片粥"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 13,
+    "word": "waiter",
+    "phonetic_symbol": "[ˈweɪtə(r)]",
+    "mean": "n.(男)服务员"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 14,
+    "word": "What about…?",
+    "phonetic_symbol": "短语",
+    "mean": "怎么样……？"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 15,
+    "word": "taste",
+    "phonetic_symbol": "[teɪst]",
+    "mean": "v.有……味道；尝；n.味道"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 16,
+    "word": "anything",
+    "phonetic_symbol": "[ˈeniθɪŋ]",
+    "mean": "pron.某物；任何事物"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 17,
+    "word": "dish",
+    "phonetic_symbol": "[dɪʃ]",
+    "mean": "n.一道菜；盘"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 18,
+    "word": "choice",
+    "phonetic_symbol": "[tʃɔɪs]",
+    "mean": "n.选择"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 19,
+    "word": "meal",
+    "phonetic_symbol": "[miːl]",
+    "mean": "n.一餐所吃的食物；早(午、晚)餐"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 20,
+    "word": "pork",
+    "phonetic_symbol": "[pɔːk]",
+    "mean": "n.猪肉"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 21,
+    "word": "strawberry",
+    "phonetic_symbol": "[ˈstrɔːbəri]",
+    "mean": "n.草莓"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 22,
+    "word": "menu",
+    "phonetic_symbol": "[ˈmenjuː]",
+    "mean": "n.菜单"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 23,
+    "word": "customer",
+    "phonetic_symbol": "[ˈkʌstəmə(r)]",
+    "mean": "n.顾客"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 24,
+    "word": "serve",
+    "phonetic_symbol": "[sɜːv]",
+    "mean": "v.提供；服务"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 25,
+    "word": "waitress",
+    "phonetic_symbol": "[ˈweɪtrəs]",
+    "mean": "n.女服务员"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 26,
+    "word": "sir",
+    "phonetic_symbol": "[sɜː(r)]",
+    "mean": "n.先生"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 27,
+    "word": "go with",
+    "phonetic_symbol": "短语",
+    "mean": "搭配；相配"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 28,
+    "word": "pear",
+    "phonetic_symbol": "[peə(r)]",
+    "mean": "n.梨"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 29,
+    "word": "too much",
+    "phonetic_symbol": "短语",
+    "mean": "太多"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 30,
+    "word": "sugar",
+    "phonetic_symbol": "[ˈʃʊɡə(r)]",
+    "mean": "n.糖"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 31,
+    "word": "improve",
+    "phonetic_symbol": "[ɪmˈpruːv]",
+    "mean": "v.改进；改善"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 32,
+    "word": "habit",
+    "phonetic_symbol": "[ˈhæbɪt]",
+    "mean": "n.习惯"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 33,
+    "word": "fast food",
+    "phonetic_symbol": "短语",
+    "mean": "快餐"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 34,
+    "word": "salt",
+    "phonetic_symbol": "[sɔːlt,sɒlt]",
+    "mean": "n.盐"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 35,
+    "word": "fat",
+    "phonetic_symbol": "[fæt]",
+    "mean": "n.脂肪；adj.肥胖的"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 36,
+    "word": "put on",
+    "phonetic_symbol": "短语",
+    "mean": "增加"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 37,
+    "word": "weight",
+    "phonetic_symbol": "[weɪt]",
+    "mean": "n.体重；重量"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 38,
+    "word": "hamburger",
+    "phonetic_symbol": "[ˈhæmbɜːɡə(r)]",
+    "mean": "n.汉堡包"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 39,
+    "word": "cause",
+    "phonetic_symbol": "[kɔːz]",
+    "mean": "v.造成；导致"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 40,
+    "word": "heart",
+    "phonetic_symbol": "[hɑːt]",
+    "mean": "n.心脏；中心"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 41,
+    "word": "balanced",
+    "phonetic_symbol": "[ˈbælənst]",
+    "mean": "adj.均衡的；平衡的"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 42,
+    "word": "too…to…",
+    "phonetic_symbol": "短语",
+    "mean": "太……以至于无法……"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 43,
+    "word": "energy",
+    "phonetic_symbol": "[ˈenədʒi]",
+    "mean": "n.能量"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 44,
+    "word": "after all",
+    "phonetic_symbol": "短语",
+    "mean": "毕竟"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 45,
+    "word": "away",
+    "phonetic_symbol": "[əˈweɪ]",
+    "mean": "adv.离开；在远处"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 46,
+    "word": "poor",
+    "phonetic_symbol": "[pɔː(r);pʊə(r)]",
+    "mean": "adj.不好的；贫穷的；可怜的"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 47,
+    "word": "result",
+    "phonetic_symbol": "[rɪˈzʌlt]",
+    "mean": "n.后果；结果"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 48,
+    "word": "article",
+    "phonetic_symbol": "[ˈɑːtɪkl]",
+    "mean": "n.文章；冠词"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 49,
+    "word": "common",
+    "phonetic_symbol": "[ˈkɒmən]",
+    "mean": "adj.共同的；普通的"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 50,
+    "word": "among",
+    "phonetic_symbol": "[əˈmʌŋ]",
+    "mean": "prep.在……之中"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 51,
+    "word": "soft",
+    "phonetic_symbol": "[sɒft]",
+    "mean": "adj.柔和的；柔软的"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 52,
+    "word": "soft drink",
+    "phonetic_symbol": "短语",
+    "mean": "软饮料(不含酒精)"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 53,
+    "word": "thirsty",
+    "phonetic_symbol": "[ˈθɜːsti]",
+    "mean": "adj.渴的"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 54,
+    "word": "Gongbao chicken",
+    "phonetic_symbol": "短语",
+    "mean": "宫保鸡丁"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 55,
+    "word": "America",
+    "phonetic_symbol": "[əˈmerɪkə]",
+    "mean": "美国；美洲"
+  },
+  {
+    "unit": "Unit4 Eat Well",
+    "num": 56,
+    "word": "Dongpo pork",
+    "phonetic_symbol": "短语",
+    "mean": "东坡肉"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 1,
+    "word": "ride",
+    "phonetic_symbol": "[raɪd]",
+    "mean": "v.骑；n.旅程"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 2,
+    "word": "moment",
+    "phonetic_symbol": "[ˈməʊmənt]",
+    "mean": "n.某个时刻；片刻；瞬间"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 3,
+    "word": "at the moment",
+    "phonetic_symbol": "短语",
+    "mean": "现在；此刻"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 4,
+    "word": "work on",
+    "phonetic_symbol": "短语",
+    "mean": "做；从事"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 5,
+    "word": "dragon",
+    "phonetic_symbol": "[ˈdræɡən]",
+    "mean": "n.龙"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 6,
+    "word": "festival",
+    "phonetic_symbol": "[ˈfestəvl]",
+    "mean": "n.节日"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 7,
+    "word": "hold",
+    "phonetic_symbol": "[həʊld]",
+    "mean": "v.拿着；抓住"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 8,
+    "word": "hold on",
+    "phonetic_symbol": "短语",
+    "mean": "别挂断电话；等一等"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 9,
+    "word": "voice",
+    "phonetic_symbol": "[vɔɪs]",
+    "mean": "n.嗓音；声音"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 10,
+    "word": "race[reɪs] n,",
+    "phonetic_symbol": "短语",
+    "mean": "比赛，竞赛"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 11,
+    "word": "darling",
+    "phonetic_symbol": "[ˈdɑːlɪŋ]",
+    "mean": "n.亲爱的"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 12,
+    "word": "somebody",
+    "phonetic_symbol": "[ˈsʌmbədi]",
+    "mean": "pron.某人；有人"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 13,
+    "word": "could",
+    "phonetic_symbol": "[kʊd; kəd]",
+    "mean": "modal v. 能，可以"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 14,
+    "word": "message",
+    "phonetic_symbol": "[ˈmesɪdʒ]",
+    "mean": "n.消息；信息"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 15,
+    "word": "take a message",
+    "phonetic_symbol": "短语",
+    "mean": "捎口信"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 16,
+    "word": "leave a message",
+    "phonetic_symbol": "短语",
+    "mean": "留个口信"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 17,
+    "word": "call back",
+    "phonetic_symbol": "短语",
+    "mean": "回电话"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 18,
+    "word": "kick",
+    "phonetic_symbol": "[kɪk]",
+    "mean": "v.踢；踹"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 19,
+    "word": "wow",
+    "phonetic_symbol": "[waʊ]",
+    "mean": "interj.哇；呀"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 20,
+    "word": "online",
+    "phonetic_symbol": "[ˌɒnˈlaɪn]",
+    "mean": "adj.在线的"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 21,
+    "word": "shuttlecock",
+    "phonetic_symbol": "[ˈʃʌtlkɒk]",
+    "mean": "n.羽毛球"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 22,
+    "word": "sight",
+    "phonetic_symbol": "[saɪt]",
+    "mean": "n.名胜；风景；视力"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 23,
+    "word": "exam",
+    "phonetic_symbol": "[ɪɡˈzæm]",
+    "mean": "n.考试"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 24,
+    "word": "examination",
+    "phonetic_symbol": "[ɪɡˌzæmɪˈneɪʃn]",
+    "mean": "n.考试"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 25,
+    "word": "hope",
+    "phonetic_symbol": "[həʊp]",
+    "mean": "v.&n.希望"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 26,
+    "word": "forward",
+    "phonetic_symbol": "[ˈfɔːwəd]",
+    "mean": "adv.向前"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 27,
+    "word": "look forward to",
+    "phonetic_symbol": "短语",
+    "mean": "希望"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 28,
+    "word": "skate[skeɪt] v.",
+    "phonetic_symbol": "短语",
+    "mean": "滑冰"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 29,
+    "word": "happen",
+    "phonetic_symbol": "[ˈhæpən]",
+    "mean": "v.发生"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 30,
+    "word": "zone",
+    "phonetic_symbol": "[zəʊn]",
+    "mean": "n.地区；地带；区域"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 31,
+    "word": "time zone",
+    "phonetic_symbol": "短语",
+    "mean": "时区"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 32,
+    "word": "around the world",
+    "phonetic_symbol": "短语",
+    "mean": "世界各地"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 33,
+    "word": "right now",
+    "phonetic_symbol": "短语",
+    "mean": "现在；立刻"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 34,
+    "word": "rush",
+    "phonetic_symbol": "[rʌʃ]",
+    "mean": "v.&n.冲；奔"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 35,
+    "word": "in a hurry",
+    "phonetic_symbol": "短语",
+    "mean": "匆忙"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 36,
+    "word": "shine",
+    "phonetic_symbol": "[ʃaɪn]",
+    "mean": "v.发光；照耀；n.光亮"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 37,
+    "word": "brightly",
+    "phonetic_symbol": "[ˈbraɪtli]",
+    "mean": "adv.明亮地"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 38,
+    "word": "colourful",
+    "phonetic_symbol": "[ˈkʌləfl]",
+    "mean": "adj.色彩鲜艳的"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 39,
+    "word": "slowly",
+    "phonetic_symbol": "[ˈsləʊli]",
+    "mean": "adv.缓慢地"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 40,
+    "word": "such",
+    "phonetic_symbol": "[sʌtʃ]",
+    "mean": "adj.这样的；那样的；pron.这样（那样）的人或事物"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 41,
+    "word": "such as",
+    "phonetic_symbol": "短语",
+    "mean": "例如"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 42,
+    "word": "painting",
+    "phonetic_symbol": "[ˈpeɪntɪŋ]",
+    "mean": "n.绘画作品；绘画;油画"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 43,
+    "word": "market",
+    "phonetic_symbol": "[ˈmɑːkɪt]",
+    "mean": "n.市场"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 44,
+    "word": "side",
+    "phonetic_symbol": "[saɪd]",
+    "mean": "n.边；侧"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 45,
+    "word": "side by side",
+    "phonetic_symbol": "短语",
+    "mean": "并排"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 46,
+    "word": "subway[sʌbweɪ]n.",
+    "phonetic_symbol": "短语",
+    "mean": "地铁"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 47,
+    "word": "bright",
+    "phonetic_symbol": "[braɪt]",
+    "mean": "adj.鲜艳的；明亮的；聪明的"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 48,
+    "word": "drop",
+    "phonetic_symbol": "[drɒp]",
+    "mean": "v.把……送至；落下；n.滴；下降"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 49,
+    "word": "drop off (",
+    "phonetic_symbol": "短语",
+    "mean": "开车)把某人送到某处"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 50,
+    "word": "passenger",
+    "phonetic_symbol": "[ˈpæsɪndʒə(r)]",
+    "mean": "n.乘客"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 51,
+    "word": "central",
+    "phonetic_symbol": "[ˈsentrəl]",
+    "mean": "adj.中心的；中央的"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 52,
+    "word": "take part in",
+    "phonetic_symbol": "短语",
+    "mean": "参加"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 53,
+    "word": "tour",
+    "phonetic_symbol": "[tʊə(r)]",
+    "mean": "n.&v.旅行；旅游"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 54,
+    "word": "sunshine",
+    "phonetic_symbol": "[ˈsʌnʃaɪn]",
+    "mean": "n.阳光"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 55,
+    "word": "drive",
+    "phonetic_symbol": "[draɪv]",
+    "mean": "v.开车；驾驶"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 56,
+    "word": "rush hour (",
+    "phonetic_symbol": "短语",
+    "mean": "上下班时的)交通高峰期"
+  },
+  {
+    "unit": "Unit5 Here and Now",
+    "num": 57,
+    "word": "Dragon Boat Festival n.",
+    "phonetic_symbol": "短语",
+    "mean": "端午节"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 1,
+    "word": "rain or shine",
+    "phonetic_symbol": "短语",
+    "mean": "不论是雨或是晴；不管发生什么事"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 2,
+    "word": "affect",
+    "phonetic_symbol": "[əˈfekt]",
+    "mean": "v.影响"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 3,
+    "word": "dry",
+    "phonetic_symbol": "[draɪ]",
+    "mean": "adj.干的；干旱的"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 4,
+    "word": "lightning",
+    "phonetic_symbol": "[ˈlaɪtnɪŋ]",
+    "mean": "n.闪电"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 5,
+    "word": "stormy",
+    "phonetic_symbol": "[ˈstɔːmi]",
+    "mean": "adj.有暴风雨（或暴风雪）的"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 6,
+    "word": "north",
+    "phonetic_symbol": "[nɔːθ]",
+    "mean": "n.北部；北；北方"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 7,
+    "word": "west",
+    "phonetic_symbol": "[west]",
+    "mean": "n.西部；西；西方"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 8,
+    "word": "south",
+    "phonetic_symbol": "[saʊθ]",
+    "mean": "n.南部；南；南方"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 9,
+    "word": "east",
+    "phonetic_symbol": "[iːst]",
+    "mean": "n.东部；东；东方"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 10,
+    "word": "centre",
+    "phonetic_symbol": "[ˈsentə(r)]",
+    "mean": "n.中间；中心点"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 11,
+    "word": "stay in",
+    "phonetic_symbol": "短语",
+    "mean": "待在家里；没有外出"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 12,
+    "word": "lucky",
+    "phonetic_symbol": "[ˈlʌki]",
+    "mean": "adj.运气好的；带来好运的"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 13,
+    "word": "lucky you",
+    "phonetic_symbol": "短语",
+    "mean": "你真幸运"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 14,
+    "word": "sunbathe",
+    "phonetic_symbol": "[ˈsʌnbeɪð]",
+    "mean": "v.沐日光浴；晒太阳"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 15,
+    "word": "some day",
+    "phonetic_symbol": "短语",
+    "mean": "将来；有朝一日"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 16,
+    "word": "temperature",
+    "phonetic_symbol": "[ˈtemprətʃə(r)]",
+    "mean": "n.温度"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 17,
+    "word": "snowman",
+    "phonetic_symbol": "[ˈsnəʊmæn]",
+    "mean": "n.(pl.snowmen)雪人"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 18,
+    "word": "heavily",
+    "phonetic_symbol": "[’hevɪli]",
+    "mean": "adv.大量地；沉重地"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 19,
+    "word": "snowy",
+    "phonetic_symbol": "[snəʊi]",
+    "mean": "adj.下雪的，雪白的"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 20,
+    "word": "beach volleyball",
+    "phonetic_symbol": "短语",
+    "mean": "沙滩排球"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 21,
+    "word": "high",
+    "phonetic_symbol": "[haɪ]",
+    "mean": "adv. & adj.在高处；高的"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 22,
+    "word": "freezing",
+    "phonetic_symbol": "[ˈfriːzɪŋ]",
+    "mean": "adj.极冷的；冰冻的"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 23,
+    "word": "tourist",
+    "phonetic_symbol": "[ˈtʊərɪst]",
+    "mean": "n.旅行者；观光客"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 24,
+    "word": "mount",
+    "phonetic_symbol": "[maʊnt]",
+    "mean": "n.(在现代英语里仅用于地名)山；山峰"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 25,
+    "word": "cloud",
+    "phonetic_symbol": "[klaʊd]",
+    "mean": "n.云；云彩"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 26,
+    "word": "feel like",
+    "phonetic_symbol": "短语",
+    "mean": "感觉像"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 27,
+    "word": "magical",
+    "phonetic_symbol": "[ˈmædʒɪkl]",
+    "mean": "adj.魔法的；神奇的"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 28,
+    "word": "rock",
+    "phonetic_symbol": "[rɒk]",
+    "mean": "n.岩石"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 29,
+    "word": "rest",
+    "phonetic_symbol": "[rest]",
+    "mean": "n.休息；剩余部分"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 30,
+    "word": "area",
+    "phonetic_symbol": "[ˈeəriə]",
+    "mean": "n.场地；地区"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 31,
+    "word": "rest area",
+    "phonetic_symbol": "短语",
+    "mean": "休息区"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 32,
+    "word": "make progress",
+    "phonetic_symbol": "短语",
+    "mean": "取得进展"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 33,
+    "word": "although",
+    "phonetic_symbol": "[ɔːlˈðəʊ]",
+    "mean": "conj.虽然；尽管"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 34,
+    "word": "in high spirits",
+    "phonetic_symbol": "短语",
+    "mean": "情绪高涨；兴高采烈"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 35,
+    "word": "experience",
+    "phonetic_symbol": "[ɪkˈspɪəriəns]",
+    "mean": "n.经历；经验；v.经历"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 36,
+    "word": "through",
+    "phonetic_symbol": "[θruː]",
+    "mean": "prep.穿过；凭借"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 37,
+    "word": "glad",
+    "phonetic_symbol": "[ɡlæd]",
+    "mean": "adj.高兴的"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 38,
+    "word": "peak",
+    "phonetic_symbol": "[piːk]",
+    "mean": "n.山顶"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 39,
+    "word": "grey",
+    "phonetic_symbol": "[ɡreɪ]",
+    "mean": "adj.灰色的"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 40,
+    "word": "because of",
+    "phonetic_symbol": "短语",
+    "mean": "因为"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 41,
+    "word": "fog",
+    "phonetic_symbol": "[fɒɡ]",
+    "mean": "n.雾"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 42,
+    "word": "ground",
+    "phonetic_symbol": "[ɡraʊnd]",
+    "mean": "n.地面"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 43,
+    "word": "wet",
+    "phonetic_symbol": "[wet]",
+    "mean": "adj.湿的"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 44,
+    "word": "tiring",
+    "phonetic_symbol": "[ˈtaɪərɪŋ]",
+    "mean": "adj.令人疲倦的；累人的"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 45,
+    "word": "seem",
+    "phonetic_symbol": "[siːm]",
+    "mean": "v.似乎；好像"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 46,
+    "word": "sunlight",
+    "phonetic_symbol": "[ˈsʌnlaɪt]",
+    "mean": "n.阳光"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 47,
+    "word": "at the top",
+    "phonetic_symbol": "短语",
+    "mean": "在顶部；在顶端"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 48,
+    "word": "thought",
+    "phonetic_symbol": "[θɔːt]",
+    "mean": "n.想法"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 49,
+    "word": "mountain",
+    "phonetic_symbol": "[ˈmaʊntən]",
+    "mean": "n.山；高山"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 50,
+    "word": "end",
+    "phonetic_symbol": "[end]",
+    "mean": "n.末尾；结束"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 51,
+    "word": "at the end",
+    "phonetic_symbol": "短语",
+    "mean": "最后；在末尾"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 52,
+    "word": "storm",
+    "phonetic_symbol": "[stɔːm]",
+    "mean": "n.暴风雨；暴风雪"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 53,
+    "word": "pour",
+    "phonetic_symbol": "[pɔː(r)]",
+    "mean": "v.倾倒；倒出"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 54,
+    "word": "wind",
+    "phonetic_symbol": "[wɪnd]",
+    "mean": "n.风"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 55,
+    "word": "shout",
+    "phonetic_symbol": "[ʃaʊt]",
+    "mean": "v.&n.喊叫；呼唤"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 56,
+    "word": "run after",
+    "phonetic_symbol": "短语",
+    "mean": "追逐"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 57,
+    "word": "Mount Huangshan",
+    "phonetic_symbol": "短语",
+    "mean": "黄山"
+  },
+  {
+    "unit": "Unit6 Rain or Shine",
+    "num": 58,
+    "word": "Bright Peak",
+    "phonetic_symbol": "短语",
+    "mean": "光明顶"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 1,
+    "word": "meet up",
+    "phonetic_symbol": "短语",
+    "mean": "碰头；相聚"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 2,
+    "word": "museum",
+    "phonetic_symbol": "[mjuˈziːəm]",
+    "mean": "n.博物馆"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 3,
+    "word": "exhibition",
+    "phonetic_symbol": "[ˌeksɪˈbɪʃn]",
+    "mean": "n.展览"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 4,
+    "word": "direction",
+    "phonetic_symbol": "[dəˈrekʃn;daɪˈrekʃn]",
+    "mean": "n.方向"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 5,
+    "word": "terrible",
+    "phonetic_symbol": "[ˈterəbl]",
+    "mean": "adj.糟糕的"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 6,
+    "word": "trip",
+    "phonetic_symbol": "[trɪp]",
+    "mean": "n.旅行"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 7,
+    "word": "wastewater",
+    "phonetic_symbol": "[ˈweɪstwɔːtə(r)]",
+    "mean": "n.废水"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 8,
+    "word": "plant",
+    "phonetic_symbol": "[plɑːnt]",
+    "mean": "n.工厂"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 9,
+    "word": "into",
+    "phonetic_symbol": "[ˈɪntuː;ˈɪntə]",
+    "mean": "prep.到……里面；进入"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 10,
+    "word": "remove",
+    "phonetic_symbol": "[rɪˈmuːv]",
+    "mean": "v.移开；拿走"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 11,
+    "word": "piece",
+    "phonetic_symbol": "[piːs]",
+    "mean": "n.片；块"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 12,
+    "word": "waste",
+    "phonetic_symbol": "[weɪst]",
+    "mean": "n.废弃物；v.浪费"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 13,
+    "word": "machine",
+    "phonetic_symbol": "[məˈʃiːn]",
+    "mean": "n.机器"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 14,
+    "word": "germ",
+    "phonetic_symbol": "[dʒɜːm]",
+    "mean": "n.微生物；细菌"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 15,
+    "word": "step",
+    "phonetic_symbol": "[step]",
+    "mean": "n.步骤；脚步"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 16,
+    "word": "used to",
+    "phonetic_symbol": "短语",
+    "mean": "过去常常（做）"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 17,
+    "word": "realize",
+    "phonetic_symbol": "[ˈriːəlaɪz]",
+    "mean": "v.认识到；实现"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 18,
+    "word": "inside",
+    "phonetic_symbol": "[ˌɪnˈsaɪd]",
+    "mean": "prep.在……里面；adv.在里面"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 19,
+    "word": "go on a trip",
+    "phonetic_symbol": "短语",
+    "mean": "去旅行"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 20,
+    "word": "process",
+    "phonetic_symbol": "[ˈprəʊses]",
+    "mean": "n.过程"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 21,
+    "word": "theatre",
+    "phonetic_symbol": "[ˈθɪətə(r)]",
+    "mean": "n.戏院；剧场；电影院"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 22,
+    "word": "factory",
+    "phonetic_symbol": "[ˈfæktri;ˈfæktəri]",
+    "mean": "n.工厂"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 23,
+    "word": "actor",
+    "phonetic_symbol": "[ˈæktə(r)]",
+    "mean": "n.演员"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 24,
+    "word": "gun",
+    "phonetic_symbol": "[ɡʌn]",
+    "mean": "n.枪"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 25,
+    "word": "try on",
+    "phonetic_symbol": "短语",
+    "mean": "试穿"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 26,
+    "word": "along",
+    "phonetic_symbol": "[əˈlɒŋ]",
+    "mean": "prep.沿着；顺着"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 27,
+    "word": "road",
+    "phonetic_symbol": "[rəʊd]",
+    "mean": "n.道路"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 28,
+    "word": "create",
+    "phonetic_symbol": "[kriˈeɪt]",
+    "mean": "v.创造"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 29,
+    "word": "record",
+    "phonetic_symbol": "[rɪˈkɔːd]",
+    "mean": "v.记录；n.记录"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 30,
+    "word": "skill",
+    "phonetic_symbol": "[skɪl]",
+    "mean": "n.技能"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 31,
+    "word": "write down",
+    "phonetic_symbol": "短语",
+    "mean": "写下；记下"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 32,
+    "word": "explore",
+    "phonetic_symbol": "[ɪkˈsplɔː(r)]",
+    "mean": "v.探索"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 33,
+    "word": "tent",
+    "phonetic_symbol": "[tent]",
+    "mean": "n.帐篷"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 34,
+    "word": "cucumber",
+    "phonetic_symbol": "[ˈkjuːkʌmbə(r)]",
+    "mean": "n.黄瓜"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 35,
+    "word": "from…to…",
+    "phonetic_symbol": "短语",
+    "mean": "从……到……"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 36,
+    "word": "straight",
+    "phonetic_symbol": "[streɪt]",
+    "mean": "adv.直接；立即；笔直地；adj.直的"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 37,
+    "word": "fill",
+    "phonetic_symbol": "[fɪl]",
+    "mean": "v.装满；盛满"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 38,
+    "word": "basket",
+    "phonetic_symbol": "[ˈbɑːskɪt]",
+    "mean": "n.篮子；筐"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 39,
+    "word": "teach",
+    "phonetic_symbol": "[tiːtʃ]",
+    "mean": "v.（taught）教"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 40,
+    "word": "branch",
+    "phonetic_symbol": "[brɑːntʃ]",
+    "mean": "n.分支；树枝"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 41,
+    "word": "leaf",
+    "phonetic_symbol": "[liːf]",
+    "mean": "n.（pl.leaves）树叶"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 42,
+    "word": "finally",
+    "phonetic_symbol": "[ˈfaɪnəli]",
+    "mean": "adv.最后"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 43,
+    "word": "think of",
+    "phonetic_symbol": "短语",
+    "mean": "考虑；想起"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 44,
+    "word": "grain",
+    "phonetic_symbol": "[ɡreɪn]",
+    "mean": "n.谷物；谷粒"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 45,
+    "word": "fresh",
+    "phonetic_symbol": "[freʃ]",
+    "mean": "adj.新鲜的"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 46,
+    "word": "certainly",
+    "phonetic_symbol": "[ˈsɜːtnli]",
+    "mean": "adv.肯定地"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 47,
+    "word": "diary",
+    "phonetic_symbol": "[ˈdaɪəri]",
+    "mean": "n.日记；日记本"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 48,
+    "word": "entry",
+    "phonetic_symbol": "[ˈentri]",
+    "mean": "n.（日记的）一则；入口"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 49,
+    "word": "agree",
+    "phonetic_symbol": "[əˈɡriː]",
+    "mean": "v.赞成；同意"
+  },
+  {
+    "unit": "Unit7 A day to Remember",
+    "num": 50,
+    "word": "agree with",
+    "phonetic_symbol": "短语",
+    "mean": "赞成；同意"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 1,
+    "word": "upon",
+    "phonetic_symbol": "[əˈpɒn]",
+    "mean": "prep.在……之上"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 2,
+    "word": "once upon a time",
+    "phonetic_symbol": "短语",
+    "mean": "从前；很久以前"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 3,
+    "word": "bite",
+    "phonetic_symbol": "[baɪt]",
+    "mean": "v.（bit）咬；咬伤"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 4,
+    "word": "bite through",
+    "phonetic_symbol": "短语",
+    "mean": "咬穿"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 5,
+    "word": "net",
+    "phonetic_symbol": "[net]",
+    "mean": "n.网；网状物"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 6,
+    "word": "hunter",
+    "phonetic_symbol": "[ˈhʌntə(r)]",
+    "mean": "n.猎人；搜寻者"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 7,
+    "word": "promise",
+    "phonetic_symbol": "[ˈprɒmɪs]",
+    "mean": "v.承诺；保证；n.承诺；诺言"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 8,
+    "word": "long ago",
+    "phonetic_symbol": "短语",
+    "mean": "很久以前"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 9,
+    "word": "war",
+    "phonetic_symbol": "[wɔː(r)]",
+    "mean": "n.战争"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 10,
+    "word": "neighbour",
+    "phonetic_symbol": "[ˈneɪbə(r)]",
+    "mean": "n.邻居"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 11,
+    "word": "wise",
+    "phonetic_symbol": "[waɪz]",
+    "mean": "adj.明智的；高明的"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 12,
+    "word": "emperor",
+    "phonetic_symbol": "[ˈempərə(r)]",
+    "mean": "n.皇帝"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 13,
+    "word": "lie",
+    "phonetic_symbol": "[laɪ]",
+    "mean": "v.撒谎；n.谎言"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 14,
+    "word": "pretend",
+    "phonetic_symbol": "[prɪˈtend]",
+    "mean": "v.假装；伪装"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 15,
+    "word": "official",
+    "phonetic_symbol": "[əˈfɪʃl]",
+    "mean": "n.官员；高级职员"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 16,
+    "word": "silly",
+    "phonetic_symbol": "[ˈsɪli]",
+    "mean": "adj.愚蠢的；傻的"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 17,
+    "word": "decide",
+    "phonetic_symbol": "[dɪˈsaɪd]",
+    "mean": "v.决定"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 18,
+    "word": "praise",
+    "phonetic_symbol": "[preɪz]",
+    "mean": "v.&n.赞美；表扬"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 19,
+    "word": "afraid",
+    "phonetic_symbol": "[əˈfreɪd]",
+    "mean": "adj.害怕的；担心的"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 20,
+    "word": "suddenly",
+    "phonetic_symbol": "[ˈsʌdənli]",
+    "mean": "adv.突然地；出乎意料地"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 21,
+    "word": "at first",
+    "phonetic_symbol": "短语",
+    "mean": "起初；最初"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 22,
+    "word": "truth",
+    "phonetic_symbol": "[truːθ]",
+    "mean": "n.真相；事实"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 23,
+    "word": "tell the truth",
+    "phonetic_symbol": "短语",
+    "mean": "说实话"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 24,
+    "word": "make money",
+    "phonetic_symbol": "短语",
+    "mean": "赚钱"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 25,
+    "word": "true",
+    "phonetic_symbol": "[truː]",
+    "mean": "adj.符合事实的；真正的"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 26,
+    "word": "hate",
+    "phonetic_symbol": "[heɪt]",
+    "mean": "v.不喜欢；厌恶；讨厌"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 27,
+    "word": "get out",
+    "phonetic_symbol": "短语",
+    "mean": "逃脱；离开"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 28,
+    "word": "king",
+    "phonetic_symbol": "[kɪŋ]",
+    "mean": "n.君主；国王"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 29,
+    "word": "artist",
+    "phonetic_symbol": "[ˈɑːtɪst]",
+    "mean": "n.美术家；艺术家"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 30,
+    "word": "quickly",
+    "phonetic_symbol": "[ˈkwɪkli]",
+    "mean": "adv.快速地；很快"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 31,
+    "word": "smile",
+    "phonetic_symbol": "[smaɪl]",
+    "mean": "v.微笑；n.微笑；笑容"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 32,
+    "word": "all over",
+    "phonetic_symbol": "短语",
+    "mean": "到处；遍及"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 33,
+    "word": "ugly",
+    "phonetic_symbol": "[ˈʌɡli]",
+    "mean": "adj.丑陋的；难看的"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 34,
+    "word": "duckling",
+    "phonetic_symbol": "[ˈdʌklɪŋ]",
+    "mean": "n.小鸭子"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 35,
+    "word": "real",
+    "phonetic_symbol": "[ˈriːəl]",
+    "mean": "adj.真的；真正的"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 36,
+    "word": "laugh at",
+    "phonetic_symbol": "短语",
+    "mean": "嘲笑"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 37,
+    "word": "go away",
+    "phonetic_symbol": "短语",
+    "mean": "走开"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 38,
+    "word": "search",
+    "phonetic_symbol": "[sɜːtʃ]",
+    "mean": "v.寻找；搜寻"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 39,
+    "word": "search for",
+    "phonetic_symbol": "短语",
+    "mean": "寻找"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 40,
+    "word": "hen",
+    "phonetic_symbol": "[hen]",
+    "mean": "n.母鸡"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 41,
+    "word": "hopefully",
+    "phonetic_symbol": "[ˈhəʊpfəli]",
+    "mean": "adv.有希望地"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 42,
+    "word": "purr",
+    "phonetic_symbol": "[pɜː(r)]",
+    "mean": "v.（猫愉快时）发出呜呜声"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 43,
+    "word": "lay",
+    "phonetic_symbol": "[leɪ]",
+    "mean": "v.下（蛋）；放置；搁 laid"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 44,
+    "word": "swan",
+    "phonetic_symbol": "[swɒn]",
+    "mean": "n.天鹅"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 45,
+    "word": "feather",
+    "phonetic_symbol": "[ˈfeðə(r)]",
+    "mean": "n.羽毛"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 46,
+    "word": "to sb's surprise",
+    "phonetic_symbol": "短语",
+    "mean": "令某人惊讶的是"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 47,
+    "word": "size",
+    "phonetic_symbol": "[saɪz]",
+    "mean": "n.尺寸；尺码"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 48,
+    "word": "dislike",
+    "phonetic_symbol": "[dɪsˈlaɪk]",
+    "mean": "v.不喜欢；厌恶；n.不喜欢（的事物）；反感"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 49,
+    "word": "only if",
+    "phonetic_symbol": "短语",
+    "mean": "只有"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 50,
+    "word": "fisherman",
+    "phonetic_symbol": "[ˈfɪʃəmən]",
+    "mean": "n.渔夫 fishermen"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 51,
+    "word": "fishing",
+    "phonetic_symbol": "[ˈfɪshɪŋ]",
+    "mean": "n.钓鱼；捕鱼"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 52,
+    "word": "come out",
+    "phonetic_symbol": "短语",
+    "mean": "出现；盛开"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 53,
+    "word": "genie",
+    "phonetic_symbol": "[ˈdʒiːni]",
+    "mean": "n.妖怪；鬼"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 54,
+    "word": "die",
+    "phonetic_symbol": "[daɪ]",
+    "mean": "v.死亡；消失"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 55,
+    "word": "make a promise",
+    "phonetic_symbol": "短语",
+    "mean": "许下诺言"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 56,
+    "word": "someone",
+    "phonetic_symbol": "[ˈsʌmwʌn]",
+    "mean": "pron.某人；有人"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 57,
+    "word": "set",
+    "phonetic_symbol": "[set]",
+    "mean": "v.使处于某种状况；使开始"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 58,
+    "word": "set…free",
+    "phonetic_symbol": "短语",
+    "mean": "释放"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 59,
+    "word": "rich",
+    "phonetic_symbol": "[rɪtch]",
+    "mean": "adj.富有的；富含……的"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 60,
+    "word": "powerful",
+    "phonetic_symbol": "[ˈpaʊəfl]",
+    "mean": "adj.强大的；有影响力的"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 61,
+    "word": "anyone",
+    "phonetic_symbol": "[ˈeniwʌn]",
+    "mean": "pron.任何人；某个人"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 62,
+    "word": "ugly",
+    "phonetic_symbol": "[ˈʌɡli]",
+    "mean": "adj.丑陋的；难看的"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 63,
+    "word": "instead of",
+    "phonetic_symbol": "短语",
+    "mean": "而不是；代替"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 64,
+    "word": "succeed in doing sth",
+    "phonetic_symbol": "短语",
+    "mean": "成功做成某事"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 65,
+    "word": "himself",
+    "phonetic_symbol": "[hɪmˈself]",
+    "mean": "pron.他自己,他本人"
+  },
+  {
+    "unit": "Unit8 Once upon a Time",
+    "num": 66,
+    "word": "in the end",
+    "phonetic_symbol": "短语",
+    "mean": "最后，终究"
+  }
+]
